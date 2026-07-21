@@ -1,5 +1,5 @@
 public class DemoApp {
     public static void main(String[] args) {
-        System.out.println("My git app - v2");
+        System.out.println("My git app - v3");
     }
 }
